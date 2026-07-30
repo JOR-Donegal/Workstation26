@@ -1,4 +1,4 @@
-# Workstation
+# Development
 
 The software and configuration of a development workstation will depend on the development environment. Here, I'm going to detail a standard Ubuntu 24.04 configuration as I use in most of the modules I teach.
 
