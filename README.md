@@ -1,5 +1,4 @@
-# MKTemplate
-Template for new teaching notes
+# UbuntuWorkstation26
 
-1. Edit mkdocs to name the project and add a URL
-2. 
+30JUL26
+Built from old notes, retested.
