@@ -11,5 +11,3 @@ So when I wipe my workstation, as I do every year, I get a clean install. I upda
 I do install either VMware workstation or hyper V.
 
 If I need to do some engineering design, I'll spin up a windows VM  and install AutoCAD. If I'm coding in Python, I'll spin up a Ubuntu VM and load all the software I need on that. My VMS can live on the second hard drive or I can port them to a backup when I think I don't need them for a while. At any stage if I lose the operating system disc of my workstation, I know I can recreate the workstation and the last time I tested it was within the last year. If I'm traveling internationally, I can leave the auxiliary Dr that I store my VMS on at home. If my laptop is destroyed or stolen, same story. My approach maybe a bit extreme, but it's worked for me for a long, long time.
-
-With regard to VMs I build regularly, I give some examples below.

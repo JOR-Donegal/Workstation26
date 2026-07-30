@@ -1,4 +1,4 @@
-# UbuntuWorkstation26
+# Workstation26
 
 30JUL26
 Built from old notes, retested.
