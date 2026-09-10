@@ -1,6 +1,6 @@
 # GNS3
 
-Some of my network exercises use GNS3. I clone I call it __ub2404-docker1__ and create a new image __ub2404-gns3__
+Some of my network exercises use GNS3. I clone __ub2404-docker1__ and create a new image __ub2404-gns3__
 
 ```linux
 #!/bin/bash

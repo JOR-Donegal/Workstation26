@@ -1,6 +1,6 @@
 # Docker
 
-Some of my exercises use containers. I clone I call it __ub2404-dev1__ and create a new image __ub2404-docker1__
+Some of my exercises use containers. I clone __ub2404-dev1__ and create a new image __ub2404-docker1__
 
 ```linux
 #!/bin/bash
